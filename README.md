@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Hi there 👋, my name is Ivan
-##I am Java Developer
+# Hi there 👋, my name is Ivan
+## I am Java Developer
 
 ![GitHub metrics](https://metrics.lecoq.io/VanyaShestakov)  
 
